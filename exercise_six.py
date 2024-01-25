@@ -14,6 +14,6 @@ print ('The given list is:', number_list)
 
 # Display the numbers divisible by five from the list 
 
-print ('The numbers divisible by 5 are:', divisible())
+print ('The numbers divisible by 5 are:', divisible(number_list))
 
 
