@@ -11,8 +11,6 @@ for numbers in number_list1:
     if numbers % 5 == 0:
         print (numbers)
 
-
-
 # Display another list. 
 number_list2 = [15, 21, 55, 67, 82,100]
 print ('\n''The given list is:', number_list2)
